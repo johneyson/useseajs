@@ -21,7 +21,7 @@
                 <li class="t2">&nbsp;</li>
             </ul>
             <iframe id="mainleft" style="width: 200px; height: 500px; overflow: hidden;" frameborder="0"
-                src="lib/WebClient/left.htm"></iframe>
+                src="lib/WebClient/left.htm"></iframe>  
         </div>
         <div id="map_body" style="float: left; height: 100%; overflow: hidden; display: none;">
             <div id="maptop" style="height: 29px">
